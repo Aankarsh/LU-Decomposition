@@ -52,12 +52,10 @@ x=lu_solve((lu,piv),B)
 print(x)
 ```
 ## Output:
-(i)
-![Ex-05 CR  LU Decomposition 1](https://github.com/user-attachments/assets/0ac0192e-c874-401d-b624-e62ea3ae1f80)
-
+(i) 
+![Screenshot 2024-11-20 151549](https://github.com/user-attachments/assets/8132edce-e1d3-44d0-80c8-db22997d66a6)
 (ii)
-
-![Ex-05 CR LU Decomposition 2](https://github.com/user-attachments/assets/5953af9f-da9b-46b6-a8d7-67592147a783)
+![Screenshot 2024-11-20 151607](https://github.com/user-attachments/assets/d4b40193-12ad-4c02-a66d-c7277f0d80c7)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
